@@ -1,57 +1,40 @@
-**List of mandatory documents required by ISO 27001 (2013 revision)**
+# List of mandatory documents required by ISO 27001
 
-If you have ever wondered what documents are mandatory in the 2013 revision of **ISO/IEC 27001**, here is the list you need. Below you will see mandatory documents, and also the most commonly used documents for ISO 27001 implementation.
+if you have ever wondered what documents are mandatory in the 2022 revision of ISO/IEC 27001, here is the list you need.
 
-## Mandatory documents and records required by ISO 27001:2013
-
-Here are the documents you need to produce if you want to be compliant with ISO 27001: (Please note that documents from Annex A are mandatory only if there are risks which would require their implementation.)
+## Mandatory documents and records required by ISO 27001:2022
 
 -   Scope of the ISMS (clause 4.3)
 -   Information security policy and objectives (clauses 5.2 and 6.2)
--   Risk assessment and risk treatment methodology (clause 6.1.2)
+-   Information security risk assessment process (clause 6.1.2)
+-   Information security risk treatment process (clause 6.1.3)
 -   Statement of Applicability (clause 6.1.3 d)
--   Risk treatment plan (clauses 6.1.3 e, 6.2, and 8.3)
--   Risk assessment report (clauses 8.2 and 8.3)
--   Definition of security roles and responsibilities (clauses A.7.1.2 and A.13.2.4)
--   Inventory of assets (clause A.8.1.1)
--   Acceptable use of assets (clause A.8.1.3)
--   Access control policy (clause A.9.1.1)
--   Operating procedures for IT management (clause A.12.1.1)
--   Secure system engineering principles (clause A.14.2.5)
--   Supplier security policy (clause A.15.1.1)
--   Incident management procedure (clause A.16.1.5)
--   Business continuity procedures (clause A.17.1.2)
--   Statutory, regulatory, and contractual requirements (clause A.18.1.1)
-
-And here are the mandatory records:
-
--   Records of training, skills, experience and qualifications (clause 7.2)
--   Monitoring and measurement results (clause 9.1)
+-   Information security risk treatment plan (clauses 6.1.3 e, 6.2, and 8.3)
+-   Information security objectives and planning to achieve them (clauses 6.2)
+-   Result of information security risk assessments (clauses 8.2)
+-   Result of information security risk treatment (clauses 8.3)
+-   Records of training, skills, experience and qualifications (evidences of competence) (clause 7.2)
+-   Results of Monitoring and measurement; including information security processes and controls (clause 9.1)
 -   Internal audit program (clause 9.2)
 -   Results of internal audits (clause 9.2)
--   Results of the management review (clause 9.3)
--   Results of corrective actions (clause 10.1)
--   Logs of user activities, exceptions, and security events (clauses A.12.4.1 and A.12.4.3)
+-   Results of the management reviews (clause 9.3)
+-   Results of corrective actions (clause 10.2 f, g)
 
-## Non-mandatory documents
+    Mandatory document of Annex A of ISO/IEC 27001:2022
 
-There are numerous non-mandatory documents that can be used for ISO 27001 implementation, especially for the security controls from Annex A. However, I find these non-mandatory documents to be most commonly used:
+-   Acceptable use of information and other associated assets (A.5.10)
+-   Procedure of response to information security incidents (A.5.26)
+-   Legal, statutory, regulatory and contractual requirements (A.5.31)
+-   Operating procedures for information processing facilities (A.5.37)
+-   Confidentiality or non-disclosure agreements (A.6.6)
+-   Configuration management (A.8.9)
+-   Secure system architecture and engineering principles (A.8.27)
+-   Information security roles and responsibilities (A.5.2)
+-   Inventory of information and other associated assets (A.5.9)
+-   Access control procedure (5.15)
+-   Capacity management plan for mission critical systems (A.8.6)
+-   Logging policy (A.8.15)
+-   Clock synchronization (A.8.17)
+-   Change control procedures (8.32)
 
--   Procedure for document control (clause 7.5)
--   Controls for managing records (clause 7.5)
--   Procedure for internal audit (clause 9.2)
--   Procedure for corrective action (clause 10.1)
--   Bring your own device (BYOD) policy (clause A.6.2.1)
--   Mobile device and teleworking policy (clause A.6.2.1)
--   Information classification policy (clauses A.8.2.1, A.8.2.2, and A.8.2.3)
--   Password policy (clauses A.9.2.1, A.9.2.2, A.9.2.4, A.9.3.1, and A.9.4.3)
--   Disposal and destruction policy (clauses A.8.3.2 and A.11.2.7)
--   Procedures for working in secure areas (clause A.11.1.5)
--   Clear desk and clear screen policy (clause A.11.2.9)
--   Change management policy (clauses A.12.1.2 and A.14.2.4)
--   Backup policy (clause A.12.3.1)
--   Information transfer policy (clauses A.13.2.1, A.13.2.2, and A.13.2.3)
--   Business impact analysis (clause A.17.1.1)
--   Exercising and testing plan (clause A.17.1.3)
--   Maintenance and review plan (clause A.17.1.3)
--   Business continuity strategy (clause A.17.2.1)
+Please note that documents from Annex A are mandatory only if there are risks which would require their implementation.)
